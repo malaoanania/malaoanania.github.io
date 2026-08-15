@@ -1,0 +1,32 @@
+/* --- Title Image --- */
+.title-img {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+
+/* --- Font Setting --- */
+:root {
+  --body-font: 'Noto Sans JP', 'Lora', 'Times New Roman', serif;
+  --header-font: 'Noto Sans JP', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* --- Font Size of Post Title --- */
+.post-title {
+  font-size: 1.5rem !important;
+}
+
+/* --- Calendar Icon --- */
+.post-meta .fa-calendar-alt {
+  margin-right: 0.5rem;
+}
+
+/* --- Font size of Subtitle --- */
+.home-subheading {
+  font-size: 1.00rem;
+  line-height: 1.1;
+  display: block;
+  font-family: var(--header-font);
+  font-weight: 300;
+  margin: 0.625rem 0 0;
+}
