@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 #author: Sharon Smith and Barry Simpson
+published: false
 ---
 
 日本語がどう表示されるかテスト。
