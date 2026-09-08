@@ -1,3 +1,10 @@
+# 仮想環境の実行
+
+```bash
+bundle exec jekyll serve
+```
+
+
 # ローカルの変更をGitHubに反映する手順
 
 ブログをローカル環境（MacBook Air）で編集した後、GitHubに反映するための標準手順です。
